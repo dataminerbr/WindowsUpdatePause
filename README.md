@@ -4,7 +4,7 @@
 <br><br>
 
 
-Ferramenta que permite pausar o sistema de atualizações do Windows 10/11, evitando updates automáticos ou permitindo que você os faça manualmente.
+Ferramenta que permite pausar o sistema de atualizações do Windows 10/11/Server até o ano de 2099, evitando updates automáticos ou permitindo que você os faça manualmente.
 
 > **Observação:** Recomenda-se pausar as atualizações manualmente antes de aplicar o arquivo `.reg`, mas não é obrigatório.
 
