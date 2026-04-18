@@ -2,6 +2,7 @@
 
 <img src="https://i.ibb.co/gbp1djf1/Screenshot-8.png" width="600">
 <br><br>
+
 **Arquivo:** `WindowsUpdatePause.reg`
 
 
