@@ -1,6 +1,7 @@
 # WindowsUpdatePause
 
 **Arquivo:** `WindowsUpdatePause.reg`
+<img src="https://i.ibb.co/gbp1djf1/Screenshot-8.png" width="600">
 
 Ferramenta que permite pausar o sistema de atualizações do Windows 10/11, evitando updates automáticos ou permitindo que você os faça manualmente.
 
