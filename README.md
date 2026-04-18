@@ -1,20 +1,25 @@
 # WindowsUpdatePause
-WindowsUpdatePause.reg
 
+**Arquivo:** `WindowsUpdatePause.reg`
 
-Ferramenta permite pausar o sistema de updates do Windows 10/11 para não receber atualizações ou para fazê-las manualmente.
-Obs: Recomenda-se fazer a pausa manual antes de aplicar o "WindowsUpdatePause.reg", mas não é obrigatório.
+Ferramenta que permite pausar o sistema de atualizações do Windows 10/11, evitando updates automáticos ou permitindo que você os faça manualmente.
 
+> **Observação:** Recomenda-se pausar as atualizações manualmente antes de aplicar o arquivo `.reg`, mas não é obrigatório.
 
+---
 
+## 📌 Instruções de uso
 
-Instruções de uso:
- 1. Abra o "Windows Update", desça até "Opções avançadas" e depois pause as atualizações... o limite é 21 dias.
- 2. Execute o "WindowsUpdatePause.reg" como administrador e confirme em todas as caixas.
+1. Abra o **Windows Update**  
+2. Vá até **Opções avançadas**  
+3. Pause as atualizações (o limite padrão é de 21 dias)  
+4. Execute o arquivo `WindowsUpdatePause.reg` como **administrador**  
+5. Confirme todas as janelas que aparecerem  
 
+---
 
+## ⚙️ Adicional
 
+Você pode escolher quais atualizações deseja instalar manualmente, incluindo drivers, utilizando o **Windows Update Manager**:
 
-Adcional:
-Você pode escolher quais atualizações quer receber manualmente ou quais drivers atualizar usando o "Windows Update Manager".
-https://apps.microsoft.com/detail/9nkxc6zq5r94?hl=pt-BR&gl=BR
+🔗 https://apps.microsoft.com/detail/9nkxc6zq5r94?hl=pt-BR&gl=BR
