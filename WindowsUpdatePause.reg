@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WindowsUpdate\UX\Settings]
+"PauseFeatureUpdatesEndTime"="2099-07-10T11:32:49Z"
+"PauseQualityUpdatesEndTime"="2099-07-10T11:32:49Z"
+"PauseUpdatesExpiryTime"="2099-07-10T11:32:49Z"
