@@ -12,7 +12,7 @@ Ferramenta que permite pausar o sistema de atualizações do Windows 10/11, evit
 
 1. Abra o **Windows Update**  > Vá até **Opções avançadas**  > Pause as atualizações (o limite padrão é de 21 dias)  
 2. Execute o arquivo `WindowsUpdatePause.reg` como **administrador**  > Confirme todas as janelas que aparecerem  
-🔗https://github.com/dataminerbr/WindowsUpdatePause/blob/main/WindowsUpdatePause.reg
+🔗https://github.com/dataminerbr/WindowsUpdatePause/releases/download/Launch/WindowsUpdatePause.reg
 ---
 
 ## ⚙️ Adicional
